@@ -1,0 +1,5 @@
+Given an array of integers, shift all the zeros in the array to the right end of the array while keeping the other elements in there original order.
+
+Ex: 
+Q1- [0, 1, 0, 0, 2, 5, 0, 0, 2, 3, 5, 0, 0 , 10, 11]
+A1- [1, 2, 5, 2, 3, 5, 10, 11, 0, 0, 0, 0, 0, 0, 0]
