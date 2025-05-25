@@ -1,11 +1,12 @@
 A farmer wants to farm their land with the maximum area where good land in present, The "land" is represented as a matrix with 1s and 0s, where 1s mean good lad and 0s mean bad land. The farmer only want to farm in a square of good land with the maximum area. Please help the farmer to find the maximum area of the land they can farm is a good land.
 
-Example.
+Ex:
+Q1-
 0 1 1 0 1
 1 1 0 1 0
 0 1 1 1 0
 1 1 1 1 0 
 1 1 1 1 1 
 0 0 0 0 0
-
 OR: [[0,1,1,0,1],[1,1,0,1,0],[0,1,1,1,0],[1,1,1,1,0],[1,1,1,1,1],[0,0,0,0,0]]
+A1- 9
